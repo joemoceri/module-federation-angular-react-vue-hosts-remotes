@@ -1,0 +1,28 @@
+{
+  "name": "vue-remote-app",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "webpack-cli serve",
+    "serve": "serve dist -p 3002",
+    "build": "webpack --mode production",
+    "clean": "rm -rf dist"
+  },
+  "dependencies": {
+    "@babel/core": "7.18.9",
+    "babel-loader": "8.2.5",
+    "serve": "13.0.4",
+    "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "css-loader": "6.7.1",
+    "file-loader": "6.2.0",
+    "html-webpack-plugin": "5.5.0",
+    "mini-css-extract-plugin": "2.6.1",
+    "url-loader": "4.1.1",
+    "vue-loader": "16.8.3",
+    "webpack": "5.72.1",
+    "webpack-cli": "4.10.0",
+    "webpack-dev-server": "4.9.3"
+  }
+}
