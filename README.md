@@ -12,6 +12,7 @@ For Vue, run yarn then yarn start.
 
 Thank you to all of the open source contributors who build module federation projects and wrote articles, these applications were all in some way derived from a mixture of all of them and many of them extend on this skeleton that only shows headers.
 
+* https://www.angulararchitects.io
 * https://github.com/scerci/mfe-angular-react
 * https://github.com/jherr/ang-pokemon-mfe
 * https://github.com/blminami/tour-of-heroes-microfrontends
