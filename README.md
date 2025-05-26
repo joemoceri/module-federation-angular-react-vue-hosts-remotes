@@ -1,6 +1,8 @@
 # module-federation-angular-react-vue-hosts-remotes
 A project demonstrating how to use web pack module federation with three frameworks as hosts and remotes
 
+* https://medium.com/@joemoceri/using-module-federation-to-work-with-angular-react-and-vue-as-hosts-and-remotes-a1d111681cfe
+
 # Usage
 Depending how you want to run it, just navigate to the ./src directory of each of the apps, and do the following:
 
